@@ -1,6 +1,6 @@
 # Shadow Lantern Studio
 
-**Turn images into light.** Create your own 3D-printable shadow lanterns from a
+**Turn images into shadows.** Create your own 3D-printable shadow lanterns from a
 picture or an AI-generated motif.
 
 [![Download the beta](https://img.shields.io/badge/Download-the%20beta-4a8fc9?style=for-the-badge)](https://github.com/mikaelmoran/ShadowLanternDownloads/releases/tag/v1.0.19-beta)
