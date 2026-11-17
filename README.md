@@ -3,7 +3,7 @@
 **Turn images into shadows.** Create your own 3D-printable shadow lanterns from a
 picture or an AI-generated motif.
 
-[![Download the beta](https://img.shields.io/badge/Download-the%20beta-4a8fc9?style=for-the-badge)](https://github.com/mikaelmoran/ShadowLanternDownloads/releases/tag/v1.0.19-beta)
+[![Download the beta](https://img.shields.io/badge/Download-the%20beta-4a8fc9?style=for-the-badge)](https://github.com/mikaelmoran/ShadowLanternDownloads/releases/tag/v1.0.20-beta)
 
 ![Concept artwork showing a wolf-themed shadow lantern](media/shadow-lantern-concept.png)
 
@@ -13,12 +13,12 @@ tealights only.*
 
 ## Download
 
-Choose your package on the [v1.0.19 beta release page](https://github.com/mikaelmoran/ShadowLanternDownloads/releases/tag/v1.0.19-beta):
+Choose your package on the [v1.0.20 beta release page](https://github.com/mikaelmoran/ShadowLanternDownloads/releases/tag/v1.0.20-beta):
 
-- **Windows:** `ShadowLanternStudio-v1.0.19-beta-windows.zip`
-- **macOS — Apple Silicon:** `ShadowLanternStudio-v1.0.19-beta-macos-arm64.zip`
-- **macOS — Intel:** `ShadowLanternStudio-v1.0.19-beta-macos-x64.zip`
-- **Linux x64:** `ShadowLanternStudio-v1.0.19-beta-linux.zip`
+- **Windows:** `ShadowLanternStudio-v1.0.20-beta-windows.zip`
+- **macOS — Apple Silicon:** `ShadowLanternStudio-v1.0.20-beta-macos-arm64.zip`
+- **macOS — Intel:** `ShadowLanternStudio-v1.0.20-beta-macos-x64.zip`
+- **Linux x64:** `ShadowLanternStudio-v1.0.20-beta-linux.zip`
 
 Extract the ZIP completely. On macOS, open `ShadowLanternStudio.app`. On Windows,
 open `ShadowLanternStudio.exe` from the extracted folder. On Linux, run the
@@ -35,8 +35,8 @@ Only open downloads you trust.
 1. Choose an image or start with the included wolf motif.
 2. Choose a shape, light direction, height and LED tealight diameter.
 3. Adjust or compare the image options and inspect the 3D preview and warnings.
-4. Export the lantern and lid as separate STL files.
-5. Slice the STLs for your own printer and material, and inspect supports and layers before printing.
+4. Export the lantern and lid as two STL files, or choose one STL with both parts side by side.
+5. Slice for your own printer and material, and inspect supports and layers before printing. For the combined STL, check that both parts fit on the build plate.
 
 ![Actual Shadow Lantern Studio workspace with the wolf motif](media/shadow-lantern-workspace.png)
 
